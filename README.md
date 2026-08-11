@@ -11,5 +11,3 @@
     - Dados x Informação
     - [Slides/Apresentação](./Aula01-10AGO/Aula02.pdf)
 
-
-dfdfdfdfdf
