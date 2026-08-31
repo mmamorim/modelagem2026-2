@@ -21,5 +21,6 @@
     - [Estudo de Caso - Curso Inglês](./Aula03-24AGO/exercicio%20-%20Curso.pdf)
     - [Estudo de Caso - FitControl](./Aula03-24AGO/exercicio%20-%20FitControl.pdf)
     - [Estudo de Caso - Sapataria](./Aula03-24AGO/exercicio%20-%20Sapataria.pdf)
-
-
+* [Aula 04](./Aula04-31AGO/) (31/08) 
+    - Exercícios
+    - Modelagem Lógica
