@@ -10,9 +10,11 @@
 
 <img src="./CursoMER.png" width="100%">
 
-### MER FIT CONTROL
+### MER FIT CONTROL (Resposta enviado pelo Henrico)
 
 - [Estudo de Caso - FitControl](./exercicio%20-%20FitControl.pdf)
+
+##### (Resposta enviado pelo Henrico)
 
 <img src="./fitMER.png" width="100%">
 
