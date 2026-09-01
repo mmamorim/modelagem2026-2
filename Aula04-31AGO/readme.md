@@ -10,6 +10,10 @@
 
 <img src="./CursoMER.png" width="100%">
 
+### MER FIT CONTROL
 
 - [Estudo de Caso - FitControl](./exercicio%20-%20FitControl.pdf)
+
+<img src="./fitMER.png" width="100%">
+
 - [Estudo de Caso - Sapataria](./exercicio%20-%20Sapataria.pdf)
