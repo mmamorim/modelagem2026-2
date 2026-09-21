@@ -22,5 +22,10 @@
     - [Estudo de Caso - FitControl](./Aula03-24AGO/exercicio%20-%20FitControl.pdf)
     - [Estudo de Caso - Sapataria](./Aula03-24AGO/exercicio%20-%20Sapataria.pdf)
 * [Aula 04](./Aula04-31AGO/) (31/08) 
+    - Modelagem Conceitual
     - Exercícios
-    - Modelagem Lógica
+* **FERIADO** (07/09) 
+* **TECH WEEK** (14/09) 
+* [Aula 05](./Aula05-21SET/) (21/09) 
+    - Modelagem Lógica [Slides Aula05](./Aula05-21SET/Modelagem_Logica.pdf)
+    - Exercícios
