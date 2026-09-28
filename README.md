@@ -29,3 +29,6 @@
 * [Aula 05](./Aula05-21SET/) (21/09) 
     - Modelagem Lógica [Slides Aula05](./Aula05-21SET/Modelagem_Logica.pdf)
     - Exercícios
+* [Aula 06](./Aula06-28SET/) (28/09) 
+    - Modelagem Física [Slides Aula05](./)
+    - [DB Browser for SQLite (DB4S)](https://sqlitebrowser.org/dl/)
