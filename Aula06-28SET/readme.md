@@ -3,7 +3,7 @@
 # AULA 06 - 28/09 - Modelagem Física
 
 - [DB Browser for SQLite (DB4S)](https://sqlitebrowser.org/dl/)
-- [Slides Aula05](./)
+- [Slides Aula06](./Modelagem_Fisica_SQLite.pdf)
 
 ---
 

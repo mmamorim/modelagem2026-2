@@ -7,6 +7,12 @@
 
 ---
 
+> ## ENUNCIADO PROJETO A3
+> #### [Enunciado]()
+> #### [Formulário para Indicação dos Integrantes dos grupos](https://forms.gle/Zm3gKhJ9PPQZqzeG6)
+
+---
+
 * [Aula 01](./Aula01-10AGO/) (10/08) 
     - Apresentação da UC
     - Dados x Informação
@@ -30,5 +36,8 @@
     - Modelagem Lógica [Slides Aula05](./Aula05-21SET/Modelagem_Logica.pdf)
     - Exercícios
 * [Aula 06](./Aula06-28SET/) (28/09) 
-    - Modelagem Física [Slides Aula05](./)
+    - Modelagem Física [Slides Aula06](./Aula07-05OUT/Modelagem_Fisica_SQLite.pdf)
+    - [DB Browser for SQLite (DB4S)](https://sqlitebrowser.org/dl/)
+* [Aula 07](./Aula07-26NOV/) (26/10) 
+    - Consultas SQL [Slides Aula07](./Aula07-05OUT/Consultas_SQL.pdf)
     - [DB Browser for SQLite (DB4S)](https://sqlitebrowser.org/dl/)
