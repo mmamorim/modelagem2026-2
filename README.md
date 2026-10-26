@@ -8,7 +8,7 @@
 ---
 
 > ## ENUNCIADO PROJETO A3
-> #### [Enunciado]()
+> #### [Enunciado](https://github.com/mmamorim/ModelagemSoftware-A3-2026-2)
 > #### [Formulário para Indicação dos Integrantes dos grupos](https://forms.gle/Zm3gKhJ9PPQZqzeG6)
 
 ---
